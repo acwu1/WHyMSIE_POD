@@ -3,8 +3,8 @@ Plan of the day for WH²yMSIE field campaign
 
 ## Sample POD xx Oct 2024
 ### Meetings
-10:00 PT - Weather brief  
-11:00 PT - Flight plan selection  
+10:00 PT - Forecasting/status update briefing  
+13:00 PT - ER-2 ops/weather brief  
 
 ### ER-2 Schedule
 Integration day  
