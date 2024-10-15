@@ -2,7 +2,7 @@
 Plan of the day for WH²yMSIE field campaign  
 *All times Pacific*
 
-## POD 16 Oct 2024(#16-Oct-2024)
+## POD 16 Oct 2024
 ### Meetings
 10:00 PT - Forecasting/status update briefing  
 *Please send a representative from each instrument team*
