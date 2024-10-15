@@ -9,7 +9,7 @@ Plan of the day for WH²yMSIE field campaign
 
 ### ER-2 Schedule
 Integration/testing day  
-07:00-10:30 PT - Aircraft access **(power and network only)**
+07:00-10:30 PT - Aircraft access **(power and network only)**  
 10:30-15:30 PT - Aircraft access for closing up pods - satcom test if instruments are ready  
 
 ### Look ahead
