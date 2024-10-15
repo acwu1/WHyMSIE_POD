@@ -1,5 +1,5 @@
 # WHyMSIE_POD
-Plan of the day for WH²yMSIE field campaign
+Plan of the day for WH²yMSIE field campaign  
 *All times Pacific*
 
 ## POD 16 Oct 2024
