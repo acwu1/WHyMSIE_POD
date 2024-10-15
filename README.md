@@ -2,7 +2,7 @@
 Plan of the day for WH²yMSIE field campaign  
 *All times Pacific*
 
-## POD 16 Oct 2024
+## POD 16 Oct 2024(#16-Oct-2024)
 ### Meetings
 10:00 PT - Forecasting/status update briefing  
 *Please send a representative from each instrument team*
@@ -25,7 +25,7 @@ AFRC: Please do not take photos of the flight line or inside the hangar.
 AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with your escorts.  
 AFRC can assist with movement between the different locations.  
 Escorts are required in the lab, breakroom, and movement between locations within the NASA Armstrong facility 7-days a week - no exceptions.  
-
+  
 Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD
 
 ---
@@ -49,3 +49,5 @@ AFRC: Please do not take photos of the flight line or inside the hangar.
 AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with your escorts.  
 AFRC can assist with movement between the different locations.  
 Escorts are required in the lab, breakroom, and movement between locations within the NASA Armstrong facility 7-days a week - no exceptions.  
+  
+Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD
