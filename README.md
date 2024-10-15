@@ -13,12 +13,12 @@ TBD-TBD PT - Aircraft access
 After lunch - Satcom test if instruments are ready
 
 ### Look ahead
-D+1 (17 Oct 2024) - Combined Systems Test (CST) at 08:00 PT, potential check flight 
-D+2 (18 Oct 2024) - Potential check flight
-19-20 Oct 2024 - Weekend
-21 Oct 2024 - AF Training Day (airfield closed)
+D+1 (17 Oct 2024) - Combined Systems Test (CST) at 08:00 PT, potential check flight  
+D+2 (18 Oct 2024) - Potential check flight  
+19-20 Oct 2024 - Weekend  
+21 Oct 2024 - AF Training Day (airfield closed)  
 
-__Next potential flight day: Thursday 17 October (check flight)__
+__Next potential flight day: Thursday 17 October (check flight)__  
 
 ### Reminders:
 AFRC: Please do not take photos of the flight line or inside the hangar.  
