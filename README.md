@@ -26,6 +26,7 @@ AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with your escorts.
 AFRC can assist with movement between the different locations.  
 Escorts are required in the lab, breakroom, and movement between locations within the NASA Armstrong facility 7-days a week - no exceptions.  
 
+Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD
 
 ---
 
