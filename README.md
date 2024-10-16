@@ -2,6 +2,42 @@
 Plan of the day for WH²yMSIE field campaign  
 *All times Pacific*
 
+## POD 17 Oct 2024
+### Meetings
+10:00 PT - Forecasting/status update briefing  
+*Please send a representative from each instrument team and update status spreadsheet*
+  
+13:00 PT - T-1 AFRC weather brief  
+
+
+### ER-2 Schedule
+Combined Systems Test (CST)  
+06:30-07:00 PT - Aircraft access  
+07:00 PT - Tow-out  
+08:30 PT - CST  
+After CST-15:00 PT - Aircraft access  
+
+### Look ahead
+D+1 (18 Oct 2024) - Check flight  
+- 07:00 - Preflight brief
+- 07:00-08:00 - Aircraft access
+- 08:30 - Tow-out, preflight at pad
+- 10:00 - Takeoff
+
+D+2 (19 Oct 2024) - Weekend    
+21 Oct 2024 - AF Training Day (airfield closed)  
+
+__Next potential flight day: Friday 18 October (check flight)__  
+__Following potential flight day: Tuesday 22 October (science flight)__  
+
+### Reminders:
+AFRC: Please do not take photos of the flight line or inside the hangar.  
+AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with maintenance.   
+  
+Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD
+
+---
+
 ## POD 16 Oct 2024
 ### Meetings
 10:00 PT - Forecasting/status update briefing  
@@ -44,8 +80,6 @@ Next potential flight day: Thursday 17 October (check flight)
 
 ### Reminders:
 AFRC: Please do not take photos of the flight line or inside the hangar.  
-AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with your escorts.  
-AFRC can assist with movement between the different locations.  
-Escorts are required in the lab, breakroom, and movement between locations within the NASA Armstrong facility 7-days a week - no exceptions.  
+AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with your maintenance.  
   
 Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD
