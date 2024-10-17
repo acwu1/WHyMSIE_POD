@@ -21,7 +21,8 @@ After CST-15:00 PT - Aircraft access
 D+1 (18 Oct 2024) - Check flight  
 - 07:00 - Preflight brief
 - 07:00-08:00 - Aircraft access
-- 08:30 - Tow-out, preflight at pad
+- 08:00 - Tow-out
+- 08:30 - Preflight at pad
 - 10:00 - Takeoff
 
 D+2 (19 Oct 2024) - Weekend    
