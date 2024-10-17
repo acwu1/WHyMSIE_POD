@@ -5,7 +5,7 @@ Plan of the day for WH²yMSIE field campaign
 ## POD 18 Oct 2024
 ### Meetings
 07:00 - Preflight brief  
-10:00 - Forecasting/status update briefing  
+10:30 - Forecasting/status update briefing **(Please note 30 minute delay)**  
 *Please send a representative from each instrument team and update status spreadsheet*  
   
 14:30 (estimated) - Postflight debrief
@@ -112,6 +112,6 @@ Next potential flight day: Thursday 17 October (check flight)
 
 ### Reminders:
 AFRC: Please do not take photos of the flight line or inside the hangar.  
-AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with your maintenance.  
+AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with maintenance.  
   
 Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD
