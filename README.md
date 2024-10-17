@@ -4,7 +4,7 @@ Plan of the day for WH²yMSIE field campaign
 
 ## POD 18 Oct 2024
 ### Meetings
-07:00 - Preflight brief
+07:00 - Preflight brief  
 10:00 - Forecasting/status update briefing  
 *Please send a representative from each instrument team and update status spreadsheet*  
   
