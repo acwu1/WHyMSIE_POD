@@ -17,8 +17,9 @@ D+1 (21 Oct 2024) - AF Training Day (airfield closed)
 - Aircraft access 06:30-15:30
 - 10:00 - Forecasting/status update briefing
 - 13:00 - T-1 AFRC weather brief  
-D+2 (22 Oct 2024) - Potential science flight
-
+  
+D+2 (22 Oct 2024) - Potential science flight  
+  
 __Next potential flight day: Tuesday 22 October (science flight)__  
 
 ## POD 18 Oct 2024
