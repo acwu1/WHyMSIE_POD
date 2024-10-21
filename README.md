@@ -2,13 +2,46 @@
 Plan of the day for WH²yMSIE field campaign  
 *All times Pacific*
 
+## POD 22 Oct 2024
+*All times Pacific*
+### Meetings
+- 07:00 - Preflight brief
+- 10:30 - Forecasting/status update briefing **(Please note 30 minute delay)**
+  - *Please send a representative from each instrument team and update status spreadsheet*
+- 13:00 - T-1 AFRC weather brief
+- 17:00 (estimated) - Postflight debrief
+
+Please note that there is a **NEW** meeting link for the preflight/daily/postflight briefs. Please do not use the link from previous PODs  
+
+### ER-2 Schedule
+Check flight  
+- 06:30 - Aircraft access hands on
+- 07:00 - Preflight brief
+- 07:30 - Hands off
+- 07:30 - Tow-out
+- 10:00 - Takeoff
+- 16:15 - Land  
+- 17:00 (estimated) - Postflight debrief  
+
+### Look ahead
+D+1 (23 Oct 2024) - Potential science flight  
+D+3 (25 Oct 2024) - Potential science flight  
+  
+__Next potential flight day: Tuesday 23 October (science flight)__  
+
+### Reminders:
+AFRC: Please do not take photos of the flight line or inside the hangar.  
+AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with maintenance.   
+  
+Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD
+
 ## POD 21 Oct 2024
 ### Meetings
 - 10:00 - Forecasting/status update briefing
   - *Please send a representative from each instrument team and update status spreadsheet*
 - 13:00 - T-1 AFRC weather brief
  
-Please note that there is a **NEW** meeting link for the preflight/daily/postflight briefs. Please do not use the link from previous PODs
+Please note that there is a **NEW** meeting link for the preflight/daily/postflight briefs. Please do not use the link from previous PODs  
  
 ### ER-2 Schedule
 Aircraft access 06:30-15:30
