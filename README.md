@@ -2,6 +2,24 @@
 Plan of the day for WH²yMSIE field campaign  
 *All times Pacific*
 
+## POD 21 Oct 2024
+### Meetings
+- 10:00 - Forecasting/status update briefing
+  - *Please send a representative from each instrument team and update status spreadsheet*
+- 13:00 - T-1 AFRC weather brief
+ 
+Please note that there is a **NEW** meeting link for the preflight/daily/postflight briefs. Please do not use the link from previous PODs
+ 
+### ER-2 Schedule
+Aircraft access 06:30-15:30
+ 
+### Look ahead
+D+1 (22 Oct 2024) – Potential science flight  
+D+2 (23 Oct 2024) - Potential science flight
+ 
+__Next potential flight day: Tuesday 22 October (science flight)__
+
+
 ## POD 19-20 Oct 2024
 ### Meetings
 - Saturday: No meetings  
