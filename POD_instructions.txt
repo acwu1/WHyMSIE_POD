@@ -11,7 +11,7 @@ POD Instructions
 If flying next day:
 8. Create pre-flight and post-flight meeting events, copying and pasting the Teams link from the 10:00
 9. Make sure to DISABLE the "Teams Meeting" button in Outlook
-10. Turn off "Request Responses" if you don't want your inbox to explode
+10. TURN OFF "Request Responses" if you don't want your inbox to explode
 11. Send to entire email list in MeetingEmails.xlsx
 
 If not flying next day:
