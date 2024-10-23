@@ -3,7 +3,7 @@ POD Instructions
 1. Edit POD in GitHub (use markdown syntax, make sure to double space at the end of the line)
 2. Copy-paste POD from GitHub to Outlook and insert meeting link/dial-in number, status spreadsheet hyperlink
 3. Send draft to John and Nicki for comments
-4. Make necessary edits and send email to entire list
+4. Make necessary edits and send email to entire list in MeetingEmails.xlsx
 5. Copy-paste POD from GitHub to WhatsApp - make sure to fix any line break issues with shift-return (so you don't send the message)
 6. Remove POD link preview that shows the icon
 7. Send WhatsApp message
@@ -12,4 +12,7 @@ If flying next day:
 8. Create pre-flight and post-flight meeting events, copying and pasting the Teams link from the 10:00
 9. Make sure to DISABLE the "Teams Meeting" button in Outlook
 10. Turn off "Request Responses" if you don't want your inbox to explode
-11. Send to entire email list
+11. Send to entire email list in MeetingEmails.xlsx
+
+If not flying next day:
+12. Cancel 13:00 ER-2/AFRC T-1 Weather Brief
