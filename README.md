@@ -2,6 +2,41 @@
 Plan of the day for WH²yMSIE field campaign  
 *All times Pacific*
 
+## POD 25 Oct 2024
+*All times Pacific*
+
+**Science flight - SGP/Scott AFB**
+
+### Meetings
+- 06:30 - Preflight brief
+- 10:00 - Forecasting/status update briefing  
+  - *Please send a representative from each instrument team and update status spreadsheet*
+- 18:00 (estimated) - Postflight debrief
+
+Please note that there is a **NEW** meeting link for the preflight/daily/postflight briefs. Please do not use the link from previous PODs  
+
+### ER-2 Schedule
+- 06:00 - Aircraft access hands on
+- 06:30 - Preflight brief
+- 07:00 - Hands off
+- 07:00 - Tow-out
+- 09:30 - Takeoff
+- 17:15 - Land  
+- 18:00 (estimated) - Postflight debrief  
+
+### Look ahead
+D+1 (26 Oct 2024) - Saturday  
+D+2 (27 Oct 2024) - 10:00 forcasting/status and 13:00 T-1 telecons  
+D+3 (28 Oct 2024) - Potential science flight  
+  
+__Next potential flight day: Monday 28 October (science flight)__  
+
+### Reminders:
+AFRC: Please do not take photos of the flight line or inside the hangar.  
+AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with maintenance.   
+  
+Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD
+
 ## POD 24 Oct 2024
 *All times Pacific*
 
