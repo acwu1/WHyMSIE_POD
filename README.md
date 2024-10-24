@@ -2,6 +2,33 @@
 Plan of the day for WH²yMSIE field campaign  
 *All times Pacific*
 
+## POD 24 Oct 2024
+*All times Pacific*
+
+### Meetings
+- 10:00 - Forecasting/status update briefing  
+  - *Please send a representative from each instrument team and update status spreadsheet*
+- 13:00 - T-1 AFRC weather brief
+
+### ER-2 Schedule
+- 06:30 - Aircraft access hands on
+- 11:00 - Hands off (to prep jet for photo in front of 4802 hangar) 
+- 11:20 - Aircraft Tow
+- 12:00 - Photo (Wear Dodger blue!) 
+- 12:30 - Tow into hangar, aircraft access until COB 
+- 15:30 - COB
+  
+### Look ahead
+D+1 (25 Oct 2024) - Potential science flight - Scott AFB  
+  
+__Next potential flight day: Monday 28 October (science flight)__  
+
+### Reminders:
+AFRC: Please do not take photos of the flight line or inside the hangar.  
+AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with maintenance.   
+  
+Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD
+
 ## POD 23 Oct 2024
 *All times Pacific*
 
