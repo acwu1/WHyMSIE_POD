@@ -26,7 +26,7 @@ Please note that there is a **NEW** meeting link for the preflight/daily/postfli
 
 ### Look ahead
 D+1 (26 Oct 2024) - Saturday  
-D+2 (27 Oct 2024) - 10:00 forcasting/status and 13:00 T-1 telecons  
+D+2 (27 Oct 2024) - 10:00 forecasting/status and 13:00 T-1 telecons  
 D+3 (28 Oct 2024) - Potential science flight  
   
 __Next potential flight day: Monday 28 October (science flight)__  
