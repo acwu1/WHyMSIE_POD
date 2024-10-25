@@ -2,14 +2,14 @@
 Plan of the day for WH²yMSIE field campaign  
 *All times Pacific*
 
-## POD 25/26 Oct 2024
+## Plan of the Day 26/27 Oct 2024
 *All times Pacific*
 
 **Weekend**
 
 ### Meetings
-- Saturday 25 Oct 2024 - No meetings
-- Sunday 26 Oct 2024:
+- Saturday 26 Oct 2024 - No meetings
+- Sunday 27 Oct 2024:
   - 10:00 - Forecasting/status update briefing  
     - *Please send a representative from each instrument team and update status spreadsheet*
   - 13:00 - T-1 AFRC weather brief
