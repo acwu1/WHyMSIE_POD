@@ -14,8 +14,6 @@ Plan of the day for WH²yMSIE field campaign
     - *Please send a representative from each instrument team and update status spreadsheet*
   - 13:00 - T-1 AFRC weather brief
 
-Please note that there is a **NEW** meeting link for the preflight/daily/postflight briefs. Please do not use the link from previous PODs  
-
 ### ER-2 Schedule
 - Weekend - no aircraft access  
 
