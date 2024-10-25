@@ -16,3 +16,5 @@ If flying next day:
 
 If not flying next day:
 12. Contact Albert to cancel 13:00 ER-2/AFRC T-1 Weather Brief
+
+Markdown Basic Syntax: https://www.markdownguide.org/basic-syntax/
