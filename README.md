@@ -17,7 +17,7 @@ Plan of the day for WH²yMSIE field campaign
 Please note that there is a **NEW** meeting link for the preflight/daily/postflight briefs. Please do not use the link from previous PODs  
 
 ### ER-2 Schedule
-- Weekend - no access  
+- Weekend - no aircraft access  
 
 ### Look ahead
 D+1 (28 Oct 2024) - Potential science flight  
