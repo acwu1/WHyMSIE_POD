@@ -18,6 +18,7 @@ Plan of the day for WH²yMSIE field campaign
   
 ### Look ahead
 D+1 (30 Oct 2024) - Potential over-ocean flight coordinated w/ G-III
+
 D+2 (31 Oct 2024) - Potential flight to Oklahoma (SGP + MOISST)
   
 __Next potential flight day: Wednesday 30 October (ER-2 & G-III)__  
