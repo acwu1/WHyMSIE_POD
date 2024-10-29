@@ -5,18 +5,18 @@ Plan of the day for WH²yMSIE field campaign
 ## Plan of the Day 30 Oct 2024
 *All times Pacific*
 
-**ER-2: No fly day - regular aircraft access**
+**Science flight - Ocean low level clouds + EarthCare overpass**
 
 ### Meetings
 - 09:00 - Preflight brief
 - 10:00 - Forecasting/status update briefing
   - *Please send a representative from each instrument team and update status spreadsheet*
 - 13:00 - T-1 AFRC weather brief
-- 17:45 (estimated) - Postflight debrief
+- 17:45 - Postflight debrief
 
 ### ER-2 Schedule
-- 07:30 - Crew Show       ————Hands On
-- 08:30 - Aircraft Tow    ————Hands Off
+- 07:30 - Crew Show (Hands On)
+- 08:30 - Aircraft Tow (Hands Off)
 - 09:00 - Crew Brief
 - 12:00 - Takeoff  
 - 17:00 - Landing 
@@ -25,7 +25,7 @@ Plan of the day for WH²yMSIE field campaign
 ### Look ahead
 D+1 (31 Oct 2024) - Potential flight to Oklahoma (SGP + MOISST)
   
-__Next potential flight day: Wednesday 31 October (ER-2 & G-III)__  
+__Next potential flight day: Monday 04 November (ER-2 & G-III)__  
 
 ### Reminders:
 AFRC: Please do not take photos of the flight line or inside the hangar.  
