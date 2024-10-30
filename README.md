@@ -17,7 +17,7 @@ Plan of the day for WH²yMSIE field campaign
 ### ER-2 Schedule
 - 05:30 - Crew Show (Hands On)
 - 06:15 - Crew Brief
-- 06:30 - Aircraft Tow
+- 06:30 - Aircraft Tow (Hands Off)
 - 09:00 - Takeoff  
 - 15:30 - Landing 
 - 16:15 - Debrief
