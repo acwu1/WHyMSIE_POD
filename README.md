@@ -1,6 +1,35 @@
 # WHyMSIE_POD
 Plan of the day for WH²yMSIE field campaign  
 *All times Pacific*
+  
+## Plan of the Day 02 Nov 2024
+*All times Pacific*
+  
+**ER-2: Weekend, no aircraft access** (labs will be open)  
+  
+### Meetings  
+  
+D+0 (Sat 02 Nov 2024)  
+   -	No Meetings
+  
+D+1 (Sun 03 Nov 2024) – Daylight Saving time ends (10AM = 1800 UTC)  
+   - 10:00 - Forecasting/status update briefing
+     - Please send a representative from each instrument team and update status spreadsheet  
+
+ -  13:00 - T-1 AFRC weather brief  
+  
+### Look ahead
+D+2 (Mon 04 Nov 2024) 
+  - Potential offshore coordinated flight with G-III, targeting AWS overpass at approximately 1920 UTC
+  
+__Next potential flight day: Tue 05 Nov, overland flight out to Nebraska__  
+
+### Reminders:
+AFRC: Please do not take photos of the flight line or inside the hangar.  
+AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with maintenance.
+
+Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD  
+
 
 ## Plan of the Day 01 Nov 2024
 *All times Pacific*
@@ -10,6 +39,7 @@ Plan of the day for WH²yMSIE field campaign
 ### Meetings
 - 10:00 - Forecasting/status update briefing  
   - *Please send a representative from each instrument team and update status spreadsheet*
+-  13:00 - T-1 AFRC weather brief
   
 ### Look ahead
 D+3 (04 Nov 2024) - Potential over-ocean flight coordinated w/ G-III
@@ -25,9 +55,6 @@ General: Daylight Savings Time ends at 02:00 on Sunday, Nov 3rd.
   
 Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD
 
-# WHyMSIE_POD
-Plan of the day for WH²yMSIE field campaign  
-*All times Pacific*
 
 ## Plan of the Day 31 Oct 2024
 *All times Pacific*
