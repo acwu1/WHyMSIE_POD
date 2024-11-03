@@ -88,9 +88,6 @@ AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with maintenance.
   
 Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD
 
-# WHyMSIE_POD
-Plan of the day for WH²yMSIE field campaign  
-*All times Pacific*
 
 ## Plan of the Day 30 Oct 2024
 *All times Pacific*
@@ -124,10 +121,6 @@ AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with maintenance.
 Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD
 
 
-# WHyMSIE_POD
-Plan of the day for WH²yMSIE field campaign  
-*All times Pacific*
-
 ## Plan of the Day 29 Oct 2024
 *All times Pacific*
 
@@ -154,10 +147,6 @@ AFRC: Please do not take photos of the flight line or inside the hangar.
 AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with maintenance.   
   
 Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD
-
-# WHyMSIE_POD
-Plan of the day for WH²yMSIE field campaign  
-*All times Pacific*
 
 ## Plan of the Day 28 Oct 2024
 *All times Pacific*
