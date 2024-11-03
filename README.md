@@ -1,6 +1,47 @@
 # WHyMSIE_POD
 Plan of the day for WH²yMSIE field campaign  
 *All times Pacific*
+
+## Plan of the Day 04 Nov 2024
+*All times Pacific*  
+
+Science Flight – Offshore coordinated flight with G-III, targeting AWS overpass at approximately 1920 UTC with later on-land overpass of Lake Tahoe, CA and Railroad Valley, NV surface site.   
+
+## Meetings
+D+0 (Mon 04 Nov 2024)
+-06:00 – Pre-flight brief
+- 10:00 - Forecasting/status update briefing
+  - Please send a representative from each instrument team and update status spreadsheet
+- 13:00 – T-1 AFRC weather brief
+- 15:00 (estimated) – Post-flight debrief
+
+ER-2 Schedule
+D+0 (Mon 04 Nov 2024)
+- 05:30 – Aircraft access hands on
+- 06:00 – Pre-flight brief
+- 06:30 – Hands off
+- 06:30 – Tow-out
+- 09:00 – Takeoff
+- 14:30 – Land
+- 15:15 (estimated) – Post-flight debrief
+
+## Look ahead
+D+1 (Tue 05 Nov 2024) – Potential overland flight to Nebraska, targeting Omaha, Nebraska surface site. No G-III coordination.  
+D+2 (Wed 06 Nov 2024) – Potential ER-2 no fly day if successful flight on Tue. Potential G-III chase flight.  
+D+3 (Thu 07 Nov 2024) – Potential coordinated over-ocean flight with G-III.  
+D+4 (Fri 08 Nov 2024) – ER-2 no fly day (airfield closure).  
+__Next potential flight day: Tuesday 05 November (Science flight)__  
+
+## Reminders
+AFRC: Please do not take photos of the flight line or inside the hangar.  
+AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with maintenance.  
+Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD  
+
+
+
+
+
+
   
 ## Plan of the Day 02 Nov 2024
 *All times Pacific*
