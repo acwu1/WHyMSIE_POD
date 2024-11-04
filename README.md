@@ -2,6 +2,38 @@
 Plan of the day for WH²yMSIE field campaign  
 *All times Pacific*
 
+## Plan of the Day 05 Nov 2024  
+All times Pacific  
+
+No ER-2 flight today  
+
+## Meetings  
+D+0 (Tue 05 Nov 2024)  
+- 10:00 - Forecasting/status update briefing  
+  - Please send a representative from each instrument team and update status spreadsheet  
+- 13:00 – T-1 AFRC weather brief  
+
+## ER-2 Schedule
+D+0 (Tue 05 Nov 2024)  
+- Regular aircraft access (6:30 – 15:30)  
+
+## Look ahead 
+D+1 (Wed 06 Nov 2024)  
+- Potential coordinated ER-2/G-III flight offshore flight CA focusing offshore water vapor and pressure gradients.
+  
+D+2 (Thu 07 Nov 2024)  
+- Potential ER-2 flight to Nebraska (Omaha weather conditions permitting). If Nebraska is not viable backup potential ER-2/G-III coordinated flight off-shore CA and inland.
+  
+D+3 (Fri 08 Nov 2024)  
+- ER-2 no fly day (airfield closure).  
+Next potential flight day: Wednesday 06 November (Science flight)  
+
+## Reminders
+AFRC: Please do not take photos of the flight line or inside the hangar.  
+AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with maintenance.  
+Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD  
+
+
 ## Plan of the Day 04 Nov 2024
 *All times Pacific*  
 
