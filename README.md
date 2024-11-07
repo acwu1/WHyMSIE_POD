@@ -2,6 +2,52 @@
 Plan of the day for WH²yMSIE field campaign  
 *All times Pacific*
 
+## Plan of the Day 07 Nov 2024  
+All times Pacific  
+
+___Science flight – Off-shore CA flight targeting NOAA-21 overpass with both G-III coordination and an overflight of Santa Catalina ground site___  
+
+## Meetings
+D+0 (Thu 07 Nov 2024)
+- 7:00 – Preflight brief  
+- 10:00 - Forecasting/status update briefing  
+  - Please send a representative from each instrument team and update status spreadsheet  
+-	16:15 (estimated) – Post-flight debrief  
+
+## ER-2 Schedule
+D+0 (Thu 07 Nov 2024)  
+-	06:30 – Aircraft access hands on  
+-	07:00 – Pre-flight brief  
+-	07:30 – Hands off  
+-	07:30 – Tow-out  
+-	10:00 – Takeoff  
+-	15:30 – Land  
+-	16:15 (estimated) – Post-flight debrief  
+
+## Look ahead 
+D+1 (Fri 08 Nov 2024)  
+-	ER-2 no fly day (airfield closure)
+  
+D+4 (Mon 11 Nov 2024)  
+-	ER-2 no fly day (Veterans’ Day)  
+
+___Next potential flight day: Next week (TBD)___  
+
+## Reminders  
+AFRC: Please do not take photos of the flight line or inside the hangar.  
+AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with maintenance.  
+Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD  
+
+
+
+
+
+
+
+
+
+
+
 
 ## Plan of the Day 06 Nov 2024
 All times Pacific
