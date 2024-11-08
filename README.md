@@ -9,9 +9,11 @@ ___No ER-2 flights today through Monday___
 
 ## Meetings  
 D+0 (Fri 08 Nov 2024)  
-- No meetings  
+- No meetings
+  
 D+1 (Sat 09 Nov 2024)  
-- No meetings  
+- No meetings
+
 D+2 (Sun 10 Nov 2024)  
 - 10:00 - Forecasting/status update briefing  
   - Please send a representative from each instrument team and update status spreadsheet  
