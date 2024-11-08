@@ -2,6 +2,57 @@
 Plan of the day for WH²yMSIE field campaign  
 *All times Pacific*
 
+## Plan of the Day 08-10 Nov 2024  
+All times Pacific  
+
+___No ER-2 flights today through Monday___  
+
+## Meetings  
+D+0 (Fri 08 Nov 2024)  
+- No meetings  
+D+1 (Sat 09 Nov 2024)  
+- No meetings  
+D+2 (Sun 10 Nov 2024)  
+- 10:00 - Forecasting/status update briefing  
+  - Please send a representative from each instrument team and update status spreadsheet  
+
+## ER-2 Schedule  
+D+0 (Fri 08 Nov 2024)  
+- Regular aircraft access (6:30 – 14:30)
+  
+D+1 (Sat 09 Nov 2024)  
+- Weekend, no aircraft access
+  
+D+2 (Sun 10 Nov 2024)  
+- Weekend, no aircraft access  
+
+## Look ahead  
+D+0 (Fri 08 Nov 2024)   
+- ER-2 no fly day (airfield closure) 
+ 
+D+3 (Mon 11 Nov 2024)  
+- ER-2 no fly day (Veterans’ Day)  
+
+___Next potential flight day: Next week (TBD)___  
+
+## Reminders  
+AFRC: Please do not take photos of the flight line or inside the hangar.  
+AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with maintenance.  
+Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Plan of the Day 07 Nov 2024  
 All times Pacific  
 
