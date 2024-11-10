@@ -22,7 +22,7 @@ D+1 (Tue 12 Nov 2024)
 - Potential flight targeting temperature gradient off southwest CA and northwestern Mexico and an AWS overpass with a Santa Catalina ground site overpass.
    
 D+2 (Wed 13 Nov 2024)
-- Potential ER-2 flight notable targeting temperature and pressure gradients associated with approaching frontal system off northern CA coast with a Santa Catalina ground site overpass and possible G-III coordination.
+- Potential ER-2 flight targeting notable temperature and pressure gradients associated with approaching frontal system off northern CA coast with a Santa Catalina ground site overpass and possible G-III coordination.
   
 D+3 (Thu 14 Nov 2024)
 - Potential ER-2 flight to Nebraska targeting surface sites near Omaha, NE.
