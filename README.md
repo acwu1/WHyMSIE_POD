@@ -2,6 +2,45 @@
 Plan of the day for WH²yMSIE field campaign  
 *All times Pacific*
 
+## Plan of the Day 11 Nov 2024
+All times Pacific
+
+___No ER-2 flights today – Veterans’ Day___
+
+## Meetings
+D+0 (Mon 11 Nov 2024)
+- 10:00 - Forecasting/status update briefing
+   - Please send a representative from each instrument team and update status spreadsheet
+- 13:00 – T-1 AFRC weather brief
+
+## ER-2 Schedule
+D+0 (Mon 11 Nov 2024)
+- Holiday, no aircraft access
+
+## Look ahead 
+D+1 (Tue 12 Nov 2024) 
+- Potential flight targeting temperature gradient off southwest CA and northwestern Mexico and an AWS overpass with a Santa Catalina ground site overpass.
+   
+D+2 (Wed 13 Nov 2024)
+- Potential ER-2 flight notable targeting temperature and pressure gradients associated with approaching frontal system off northern CA coast with a Santa Catalina ground site overpass and possible G-III coordination.
+  
+D+3 (Thu 14 Nov 2024)
+- Potential ER-2 flight to Nebraska targeting surface sites near Omaha, NE.
+  
+D+4 (Fri 15 Nov 2024)
+- Potential ER-2 flight to Nebraska targeting surface sites near Omaha, NE , if Thursday is not viable or flown, with possible G-III coordination.
+  
+___Next potential flight day: Tuesday 12 November (Science flight)___
+
+## Reminders
+AFRC: Please do not take photos of the flight line or inside the hangar.
+AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with maintenance.
+Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD
+
+
+
+
+
 ## Plan of the Day 08-10 Nov 2024  
 All times Pacific  
 
