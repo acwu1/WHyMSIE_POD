@@ -2,6 +2,50 @@
 Plan of the day for WH²yMSIE field campaign  
 *All times Pacific*
 
+
+## Plan of the Day 12 Nov 2024
+All times Pacific
+
+___ER-2 Science Flight - Targeting pressure and moisture gradients off southwest CA coastline with a Santa Catalina ground site overpass.___  
+
+## Meetings
+D+0 (Tue 12 Nov 2024) 4.5 hour 10 am to
+- 7:00 – Pre-flight brief
+- 10:00 - Forecasting/status update briefing
+  - Please send a representative from each instrument team and update status spreadsheet
+- 13:00 – T-1 AFRC weather brief
+- 15:15 (estimated) – Post-flight brief
+
+## ER-2 Schedule  
+D+0 (Tue 12 Nov 2024)
+- 06:30 – Aircraft access hands on
+- 07:00 – Pre-flight brief 
+- 07:30 – Hands off
+- 07:30 – Tow-out
+- 10:00 – Takeoff
+- 14:30 – Land
+- 15:15 (estimated) – Post-flight debrief
+
+## Look ahead  
+D+1 (Wed 13 Nov 2024)
+- Potential ER-2 flight targeting temperature and pressure gradients associated with frontal system off northern CA coast with a Santa Catalina ground site overpass and possible G-III coordination.
+     
+D+2 (Thu 14 Nov 2024)
+- Potential ER-2 flight to Nebraska targeting surface sites near Omaha, NE.
+  
+D+3 (Fri 15 Nov 2024)
+- Potential ER-2 flight to Nebraska targeting surface sites near Omaha, NE , if Thursday is not viable or flown, with possible G-III coordination.
+  
+___Next potential flight day: Wednesday 13 November (Science flight)___
+
+## Reminders  
+AFRC: Please do not take photos of the flight line or inside the hangar.  
+AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with maintenance.  
+Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD  
+
+
+
+
 ## Plan of the Day 11 Nov 2024
 All times Pacific
 
