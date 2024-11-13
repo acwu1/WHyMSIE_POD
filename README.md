@@ -6,7 +6,7 @@ Plan of the day for WH²yMSIE field campaign
 ## Plan of the Day 14 Nov 2024
 All times Pacific
 
-___ER-2 Science Flight - Targeting temperature and pressure gradients associated with frontal system off northern CA coast with G-III coordination and a Santa Catalina ground site overpass___   
+___ER-2 Science Flight - Capture wide variety of surface conditions and over fly critical ground sites in Boulder (CO) and Mead (NE)___   
 
 ## Meetings
 D+0 (Thur 14 Nov 2024) 
