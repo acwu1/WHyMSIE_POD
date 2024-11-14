@@ -20,10 +20,11 @@ D+0 (Thur 14 Nov 2024)
 D+0 (Thur 14 Nov 2024)
 - 06:30 – Aircraft access hands on
 - ~~07:00 – Pre-flight brief~~ 
-- 07:30 – Hands off
+- ~~07:30 – Hands off~~
 - ~~07:30 – Tow-out~~
 - ~~10:00 – Takeoff~~
 - ~~16:30 – Land~~
+- 16:30 - hands off
 - ~~17:15 (estimated) – Post-flight debrief~~
 
 ## Look ahead 
