@@ -6,7 +6,7 @@ Plan of the day for WH²yMSIE field campaign
 ## Plan of the Day 14 Nov 2024
 All times Pacific
 
-___ER-2 Science Flight - Capture wide variety of surface conditions and over fly critical ground sites in Boulder (CO) and Mead (NE)___   
+<span style="color:red">___ER-2 Science Flight Cancelled – No Flight Due to Maintenance Issue___</span>   
 
 ## Meetings
 D+0 (Thur 14 Nov 2024) 
