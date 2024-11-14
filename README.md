@@ -3,6 +3,43 @@ Plan of the day for WH²yMSIE field campaign
 *All times Pacific*
 
 
+## Plan of the Day 15 Nov 2024
+All times Pacific
+
+ER-2 Science Flight - Capture wide variety of surface conditions and over fly critical ground sites in Boulder (CO) and Mead (NE)
+
+## Meetings
+D+0 (Fri 15 Nov 2024) 
+- 06:30 Pre-flight brief
+- 10:00 - Forecasting/status update briefing
+  - Please send a representative from each instrument team and update status spreadsheet
+- 16:45 Debrief
+
+## ER-2 Schedule
+D+0 (Fri 15 Nov 2024)
+- 06:30  Crew Show (Hands On)
+- 06:30  Crew Brief
+- 07:15  Aircraft Tow (Hands Off)
+- 09:30  Takeoff  
+- 16:00  Landing 
+- 16:45  Debrief
+
+## Look ahead 
+D+3 (Mon 18 Nov 2024)
+- Potential flight over ocean to sample various low level cloud scenes and capture EarthCare overpass
+
+Next potential flight day: Monday 18 November (Science flight)
+
+## Reminders
+AFRC: Please do not take photos of the flight line or inside the hangar.  
+AFRC: Please use the WH2yMSIE WhatsApp group to coordinate with maintenance.  
+Latest POD can be accessed at https://github.com/acwu1/WHyMSIE_POD  
+
+# WHyMSIE_POD
+Plan of the day for WH²yMSIE field campaign  
+*All times Pacific*
+
+
 ## Plan of the Day 14 Nov 2024
 All times Pacific
 
