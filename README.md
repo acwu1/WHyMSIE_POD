@@ -10,21 +10,21 @@ All times Pacific
 
 ## Meetings
 D+0 (Thur 14 Nov 2024) 
-- 7:00 – Pre-flight brief
+- ~~7:00 – Pre-flight brief~~
 - 10:00 - Forecasting/status update briefing
   - Please send a representative from each instrument team and update status spreadsheet
 - 13:00 – T-1 AFRC weather brief
-- 17:15 (estimated) – Post-flight brief
+- ~~17:15 (estimated) – Post-flight brief~~
 
 ## ER-2 Schedule
 D+0 (Thur 14 Nov 2024)
 - 06:30 – Aircraft access hands on
-- 07:00 – Pre-flight brief 
+- ~~07:00 – Pre-flight brief~~ 
 - 07:30 – Hands off
-- 07:30 – Tow-out
-- 10:00 – Takeoff
-- 16:30 – Land
-- 17:15 (estimated) – Post-flight debrief
+- ~~07:30 – Tow-out~~
+- ~~10:00 – Takeoff~~
+- ~~16:30 – Land~~
+- ~~17:15 (estimated) – Post-flight debrief~~
 
 ## Look ahead 
 D+1 (Fri 15 Nov 2024)
